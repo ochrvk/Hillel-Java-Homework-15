@@ -1,4 +1,4 @@
-package hw15;
+package chrvk.javaelementary.hw15.task1;
 /*
 Создать список случайных чисел. Используя Stream Api подсчитать среднее арифиметическое квадратов этих чисел
  */

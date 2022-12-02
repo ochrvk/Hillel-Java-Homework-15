@@ -1,6 +1,3 @@
-//Задан отсортированный список который состоит из ListNode.
-//Написать метод deleteDuplicates, который вернет список без дубликатов.
-
 package chrvk.javaelementary.hw15.task2;
 
 public class Main {

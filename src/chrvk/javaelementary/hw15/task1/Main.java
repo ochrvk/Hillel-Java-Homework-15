@@ -1,7 +1,5 @@
 package chrvk.javaelementary.hw15.task1;
-/*
-Создать список случайных чисел. Используя Stream Api подсчитать среднее арифиметическое квадратов этих чисел
- */
+
 import java.util.Arrays;
 import java.util.Random;
 import java.util.stream.IntStream;
